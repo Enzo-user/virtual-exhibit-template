@@ -1,9 +1,3 @@
----
-title: "CSARCH2 Virtual Exhibit Guide"
-tags: ["csarch2", "arch museum", "astro", "mdx"]
-description: "This document acts as a guide on how to use this template and setup Astro and MDX."
----
-
 # CSARCH2 Virtual Exhibit Guide
 Node.js 26 · Astro 6 · MDX · React
 
