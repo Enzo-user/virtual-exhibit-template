@@ -2,15 +2,15 @@
 
 **Term:** 3rd Term 2025-2026  
 **Section:** S40 (Category: How it Works)  
-**Group Title:** Kahit Ano
+**Group Title:** Pen-testers
 
 ## Group Member Roster
 
-1. Hannah Tayzon - [Role]
-2. Hans Gabriel Obcena - [Role]
-3. James Edsel Alvarez - [Role]
-4. Jarick Viray - [Role]
-5. Lorenzo Suerte - [Role]
+1. Hannah Tayzon 
+2. Hans Gabriel Obcena 
+3. James Edsel Alvarez 
+4. Jarick Viray 
+5. Lorenzo Suerte 
 
 ---
 
